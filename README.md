@@ -1,8 +1,18 @@
-# Real-time Chat Application
+# REAL-TIME CHAT APPLICATION #
 
-A full-stack real-time chat application built with React, Node.js, Socket.IO, and MongoDB.
+COMPANY *: CODETECH IT SOLUTIONS
 
-## Features
+NAME : SATYAM MAURYA
+
+INTERN ID : CT08DH899
+
+DOMAIN : FULL STACK WEB DEVELOPMENT
+
+DURATION : 8 WEEKS
+
+MENTOR : NEELA_SANTHU
+
+DESCRIPTION : A full-stack real-time chat application built with React, Node.js, Socket.IO, and MongoDB.## Features
 
 - 🔒 User authentication (signup, login, logout)
 - 👤 User profile management with avatar upload
@@ -32,46 +42,6 @@ A full-stack real-time chat application built with React, Node.js, Socket.IO, an
 - Cloudinary for image storage
 - bcrypt for password hashing
 
-## Prerequisites
+OUTPUT : https://github.com/user-attachments/assets/6140e582-bf4f-49dc-8285-f587855bf1af
 
-- Node.js (v14+ recommended)
-- MongoDB installed and running locally
-- Cloudinary account for image storage
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/chat-application.git
-cd chat-application
-cd backend
-npm install
-cd frontend
-npm install
-
-MONGODB_URI=mongodb://127.0.0.1:27017/chat_app
-PORT=5001
-JWT_SECRET=your_jwt_secret
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
-NODE_ENV=development
-
-├── backend/
-│   ├── src/
-│   │   ├── controllers/      # Request handlers
-│   │   ├── models/          # Database models
-│   │   ├── routes/          # API routes
-│   │   ├── middleware/      # Custom middleware
-│   │   ├── lib/            # Utilities and configurations
-│   │   └── seeds/          # Database seeds
-│   └── package.json
-│
-└── frontend/
-    ├── src/
-    │   ├── components/     # Reusable React components
-    │   ├── pages/         # Page components
-    │   ├── store/         # Zustand store configurations
-    │   ├── lib/           # Utilities and configurations
-    │   └── constants/     # Constants and configurations
-    └── package.json
