@@ -42,6 +42,6 @@ DESCRIPTION : A full-stack real-time chat application built with React, Node.js,
 - Cloudinary for image storage
 - bcrypt for password hashing
 
-OUTPUT : https://github.com/user-attachments/assets/6140e582-bf4f-49dc-8285-f587855bf1af
+OUTPUT : https://drive.google.com/file/d/1PinDnqikcztvlfniSrSAKXnNmtC445TK/view?usp=sharing
 
 
